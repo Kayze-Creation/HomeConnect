@@ -8,6 +8,9 @@ Logiciels et Applications utilisés :
     - Arduino
     - Visual Studio Code
     - The Things Networks
+    - LoRa
+    - PHP
+    - MySQL
     - phpmyadmin
     - Solidworks
     - Blender
