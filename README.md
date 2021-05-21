@@ -11,7 +11,7 @@ Logiciels et Applications utilisés :
     - LoRa
     - PHP
     - MySQL
-    - phpmyadmin
+    - Phpmyadmin
     - Solidworks
     - Blender
     - XAMPP
